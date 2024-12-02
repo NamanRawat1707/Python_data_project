@@ -74,7 +74,7 @@ plt.show()
 ```
 
 ### Results:
- ![Visualization of Top Skills](main/Images/skills_demanded_all-data_roles.png)
+ ![Visualization of Top Skills](Python_data_project/main/Images/skills_demanded_all-data_roles.png)
 
 ### Insights:
 1. SQL and Python are the most universally sought-after skills across all three roles, with Python being especially critical for Data Scientists (72%) and Data Engineers (65%).
@@ -110,7 +110,7 @@ plt.show()
 ```
 ### Results:
 
- ![Trending Top Skills for Data Analyst in India](main/Images/dataanalyst_trending_over_time.png)
+ ![Trending Top Skills for Data Analyst in India](Python_data_project/main/Images/dataanalyst_trending_over_time.png)
  *Graph showing the trending top skills for Data Analyst in India in 2023*
 
  ### Insights:
@@ -135,7 +135,7 @@ plt.show()
 
 ```
 ### Results:
-![Salary Analysis for the Data Analyst Roles in India](main/Images/salary_analysis.png)
+![Salary Analysis for the Data Analyst Roles in India](Python_data_project/main/Images/salary_analysis.png)
 
 ### Insights:
 - There is a significant variance in salaries across the job titles. Data Scientists, Machine learning Engineers and Data Engineers have the highest salary potential around 200K (USD), which signifies that high value is placed on advanced data skills.
@@ -160,7 +160,7 @@ sns.barplot(data=df_DA_skills, x='median', y=df_DA_skills.index, ax=ax[1],hue='m
 plt.show()
 ```
 ### Results:
-![In demand and Highest Paying skills for Data analysts in India](main/Images/Indemand.png)
+![In demand and Highest Paying skills for Data analysts in India](Python_data_project/main/Images/Indemand.png)
 *Two separate graphs are shown for visualizing the highest paid skills and the most in-demand skills*
 
 ### Insights:
@@ -185,7 +185,7 @@ plt.show()
 ```
 
 ### Results:
-![Most_optimal_skills_to_learn](main/Images/optimal_skills.png)
+![Most_optimal_skills_to_learn](Python_data_project/main/Images/optimal_skills.png)
 *A scatter plot visualizing the most optimal skills (High paying & In-Demand) for data analyst in India to learn.*
 
 ### Insights:

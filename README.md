@@ -13,7 +13,7 @@ Below are some of the questions that we will answer throughout the project
 
 # Tools used
 For further understanding of the project, These are the tools that i used for the analysis of the data job market.
- - ***Python** : the foundation of the project, alloing me to analyze the data and provide insights , i also employed usage of the following python libraries
+ - **Python** : the foundation of the project, alloing me to analyze the data and provide insights , i also employed usage of the following python libraries
       - **Pandas Library** : It was used for the Analysis of the data.
       - **Matplotlib Library** : This was used to plot the insights 
       - **Seaborn Library** : It was used to create more advanced visualizations.
